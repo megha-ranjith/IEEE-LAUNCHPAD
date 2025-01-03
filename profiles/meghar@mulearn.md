@@ -26,7 +26,7 @@ My journey as a leader has been defined by a commitment to innovation, community
 Each role has strengthened my leadership, teamwork, and problem-solving skills, shaping me into a versatile and empathetic leader driven to inspire and create meaningful impact.
 
 
-#### Networking:
+#### Networking:  
 
 I actively seek opportunities to connect with professionals, mentors, and peers in the tech ecosystem. My participation in workshops, hackathons, and events like IEDC SEEDS'97 has allowed me to interact with thought leaders and visionaries, including Mr. Anoop Ambika and Mr. Berjin. Through networking, I aim to not only learn from these experiences but also build long-term relationships that contribute to personal and professional growth.
 
