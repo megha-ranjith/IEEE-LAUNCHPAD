@@ -6,7 +6,7 @@
 
 > Currently, I am diving into back-end development with a focus on the MERN stack, aiming to expand my skill set and deliver end-to-end solutions. My ultimate goal is to create seamless digital experiences by combining creativity and functionality.
 
-## Portfolio Highlights 
+## Portfolio Highlights  
 
 
 ### My Projects 
